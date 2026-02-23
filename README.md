@@ -9,7 +9,7 @@ seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou 
 # PRR - WireMaze - Pack 20
 
 - Data de criação: 30/12/2025
-- URL: https://www.cm-braganca.pt/, https://www.cm-guimaraes.pt/, https://www.municipio.esposende.pt/, https://www.cmav.pt/, https://www.cm-matosinhos.pt/, https://www.regiaodeaveiro.pt/, https://valpacos.pt/, https://www.sabrosa.pt/, https://www.cm-albergaria.pt/, https://www.cm-caminha.pt/, https://www.cm-peniche.pt/, https://www.cm-pesoregua.pt/, https://www.cm-pombal.pt/, https://www.cm-montalegre.pt/, https://www.cm-agueda.pt/, https://www.cm-satao.pt/, https://www.cm-ilhavo.pt/, https://www.cm-olb.pt/, https://www.cm-vagos.pt/, https://www.cm-valongo.pt/
+- URL: [https://www.cm-braganca.pt/](https://www.cm-braganca.pt/), [https://www.cm-guimaraes.pt/](https://www.cm-guimaraes.pt/), [https://www.municipio.esposende.pt/](https://www.municipio.esposende.pt/), [https://www.cmav.pt/](https://www.cmav.pt/), [https://www.cm-matosinhos.pt/](https://www.cm-matosinhos.pt/), https://www.regiaodeaveiro.pt/, https://valpacos.pt/, https://www.sabrosa.pt/, https://www.cm-albergaria.pt/, https://www.cm-caminha.pt/, https://www.cm-peniche.pt/, https://www.cm-pesoregua.pt/, https://www.cm-pombal.pt/, https://www.cm-montalegre.pt/, https://www.cm-agueda.pt/, https://www.cm-satao.pt/, https://www.cm-ilhavo.pt/, https://www.cm-olb.pt/, https://www.cm-vagos.pt/, https://www.cm-valongo.pt/
 - Propriedade: PRR - WireMaze - Pack 20
 - Candidatura: Ouro
 
