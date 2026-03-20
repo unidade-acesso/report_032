@@ -6,7 +6,7 @@ owner: "Comunidade Intermunicipal da Região de Aveiro"         # Entre as aspas
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
-# PRR - WireMaze - Pack 20
+# Comunidade Intermunicipal da Região de Aveiro
 
 - Data de criação: 30/12/2025
 - Propriedade: Comunidade Intermunicipal da Região de Aveiro
