@@ -24,3 +24,8 @@ Consulte aqui a última atualização: [Relatório do {{ page.website }}](report
     <li><a href="/report_012/25022026_report.html">(25/02/2026). Relatório do {{ page.website }}</a></li>
   </ul>
 </details>
+
+## Declaração de Acessibilidade analisada
+
+- [https://www.regiaodeaveiro.pt/acessibilidade](https://www.regiaodeaveiro.pt/acessibilidade)
+
