@@ -9,7 +9,7 @@ seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou 
 # Comunidade Intermunicipal da Região de Aveiro (sítio Web institucional)
 
 - Data de criação: 23/03/2025
-- URL: [{{ page.uri }}](https://www.regiaodeaveiro.pt)
+- URL: https://www.regiaodeaveiro.pt
 - Propriedade: Comunidade Intermunicipal da Região de Aveiro
 - Candidatura: Ouro
 
