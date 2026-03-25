@@ -1,17 +1,17 @@
 ---
-website: "Comunidade Interministerial da Região de Aveiro (sítio Web institucional)"          # Entre as aspas escreve o nome do website
-date: "30/12/2025"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+website: "Comunidade Intermunicipal da Região de Aveiro (sítio Web institucional)"          # Entre as aspas escreve o nome do website
+date: "23/03/2025"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://www.regiaodeaveiro.pt"   # Entre as aspas escreve o domínio do website
 owner: "Comunidade Intermunicipal da Região de Aveiro"         # Entre as aspas escrever o nome do owner do website
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
-# {{ page.website }}
+# Comunidade Intermunicipal da Região de Aveiro (sítio Web institucional)
 
-- Data de criação: {{ page.date }}
-- URL: {{ page.uri }}
-- Propriedade: {{ page.owner }}
-- Candidatura: {{ page.seal }}
+- Data de criação: 23/03/2025
+- URL: [{{ page.uri }}](https://www.regiaodeaveiro.pt)
+- Propriedade: Comunidade Intermunicipal da Região de Aveiro
+- Candidatura: Ouro
 
 ## Relatório de Auditoria
 
