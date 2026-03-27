@@ -21,7 +21,7 @@ Consulte aqui a última atualização: [Relatório da Comunidade Intermunicipal 
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
     <li><a href="27032026_report.html">(27/03/2026). Relatório da Comunidade Intermunicipal da Região de Aveiro (sítio Web institucional)</a></li>
-    <li><a href="/report_012/27032026_report.html">(27/03/2026). Relatório PRR - WireMaze - Pack 20</a></li>
+    <li><a href="https://unidade-acesso.github.io/report_032/27032026_report.html">(27/03/2026). Relatório PRR - WireMaze - Pack 20</a></li>
   </ul>
 </details>
 
