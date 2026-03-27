@@ -15,13 +15,13 @@ seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou 
 
 ## Relatório de Auditoria
 
-Consulte aqui a última atualização: [Relatório do {{ page.website }}](report.html)
+Consulte aqui a última atualização: [Relatório da Comunidade Intermunicipal da Região de Aveiro (sítio Web institucional)](report.html)
 
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
-    <li><a href="ddmmaaaa_report.html">(dd/mm/aaaa). Relatório do {{ page.website }}</a></li>
-    <li><a href="/report_012/25022026_report.html">(25/02/2026). Relatório do {{ page.website }}</a></li>
+    <li><a href="27032026_report.html">(27/03/2026). Relatório da Comunidade Intermunicipal da Região de Aveiro (sítio Web institucional)</a></li>
+    <li><a href="/report_012/27032026_report.html">(27/03/2026). Relatório PRR - WireMaze - Pack 20</a></li>
   </ul>
 </details>
 
