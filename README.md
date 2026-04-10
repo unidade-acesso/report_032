@@ -6,7 +6,7 @@ owner: "Comunidade Intermunicipal da Região de Aveiro"         # Entre as aspas
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
-# Comunidade Intermunicipal da Região de Aveiro (sítio Web institucional)
+# PRR - Comunidade Intermunicipal da Região de Aveiro (sítio Web institucional)
 
 - Data de criação: 23/03/2025
 - URL: https://www.regiaodeaveiro.pt
